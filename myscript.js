@@ -1,557 +1,557 @@
 var myQuestions = [
   {
-    question: "1. The doctors ________ work in this hospital are very professional.",
+    question: "1. I have three cars. One is big.  __________ two are small.",
     answers: {
-      a: 'whose',
-      b: 'who',
-      c: 'whom',
-      d: 'which'
+      a: 'Other',
+      b: 'The others',
+      c: 'The other',
+      d: 'another'
     },
-    correctAnswer: 'b'
+    correctAnswer: 'c'
   },
   {
-    question: "2.	Sami still has __________ sugar and rice in his store.",
+    question: "2. You can go back to Jeddah. I’ll stay here in Dammam for __________three days.",
     answers: {
-      a: 'few',
-      b: 'a number of',
-      c: 'many',
-      d: 'some'
+      a: 'others',
+      b: 'other',
+      c: 'the others',
+      d: 'another'
 
     },
     correctAnswer: 'd'
   },
 
   {
-    question: "3.	The workers __________ for the bus were very tired.",
-    answers: {
-      a: 'waited',
-      b: 'waiting',
-      c: 'wait',
-      d: 'waits'
-
-    },
-    correctAnswer: 'b'
-  },
-  {
-    question: "4.	I bought the book __________ John told me about.",
-    answers: {
-      a: 'which',
-      b: 'whose',
-      c: 'who',
-      d: 'where'
-
-    },
-    correctAnswer: 'a'
-  },
-  {
-    question: "5.	I liked the food __________ Mrs. Williams cooked last Friday.",
+    question: "3. The man __________ I visited used to teach me English.",
     answers: {
       a: 'whose',
-      b: 'whom',
-      c: 'that',
-      d: 'where'
+      b: 'to whom',
+      c: 'what',
+      d: 'who'
 
     },
-    correctAnswer: 'c'
-  },
-
-  {
-    question: "6. They need to drink __________ coffee.",
-    answers: {
-      a: 'a lot',
-      b: 'a little',
-      c: 'a few',
-      d: 'several'
-
-    },
-    correctAnswer: 'b'
+    correctAnswer: 'd'
   },
   {
-    question: "7.	I don’t know where __________ ",
+    question: "4. This is the student __________ .",
     answers: {
-      a: 'he lives',
-      b: 'is he living',
-      c: 'does he live',
-      d: 'did he live'
+      a: 'about whom we were talking',
+      b: 'we were talking about whom',
+      c: 'whom we were talking about',
+      d: 'we were talking whom about'
 
     },
     correctAnswer: 'a'
   },
-
   {
-    question: "8. This is the office __________ the clerk usually types the reports.",
+    question: "5. The car __________ I sold you is almost new.",
     answers: {
-      a: 'which',
+      a: 'where',
       b: 'that',
-      c: 'where',
-      d: 'when'
-
-    },
-    correctAnswer: 'c'
-  },
-
-  {
-    question: "9.	He insisted that he __________ his friend in the hospital.",
-    answers: {
-      a: 'visit',
-      b: 'visited',
-      c: 'visits',
-      d: 'visiting'
-
-    },
-    correctAnswer: 'a'
-  },
-  
-  {
-    question: "10. There are __________ notebooks on the desk.",
-    answers: {
-      a: 'several',
-      b: 'a great deal',
-      c: 'much',
-      d: 'plenty'
-
-    },
-    correctAnswer: 'a'
-  },
-  
-  {
-    question: "11.	It is essential that we __________ poor people.",
-    answers: {
-      a: 'helped',
-      b: 'help',
-      c: 'helps',
-      d: 'helping'
+      c: 'whom',
+      d: 'what'
 
     },
     correctAnswer: 'b'
   },
 
   {
-    question: "12.	He will never forget the year __________ his best friend died",
+    question: "6. This is the house __________.",
     answers: {
-      a: 'which',
-      b: 'from which',
-      c: 'at which',
-      d: 'in which'
+      a: 'where he lives in',
+      b: 'in which he lives',
+      c: 'which he lives',
+      d: 'in that he lives'
 
     },
-    correctAnswer: 'd'
+    correctAnswer: 'b'
   },
-
   {
-    question: "13.	Do you know who __________ yesterday?",
+    question: "7.	I don’t know __________.",
     answers: {
-      a: 'comes',
-      b: 'will come',
-      c: 'came',
-      d: 'is coming'
+      a: 'where does he lives',
+      b: 'where he live',
+      c: 'where he lives',
+      d: 'where is living'
 
     },
     correctAnswer: 'c'
   },
-  {
-    question: "14.	Salem is living in a city __________ in the northern part of Saudi Arabia",
-    answers: {
-      a: 'locating',
-      b: 'locates',
-      c: 'locate',
-      d: 'located'
-
-    },
-    correctAnswer: 'd'
-  },
 
   {
-    question: "15.	__________ students are very clever.",
+    question: "8. Put the __________ over there.  Be careful with it.",
     answers: {
-      a: 'Both',
-      b: 'Much',
-      c: 'A great deal of',
-      d: 'Plenty'
+      a: 'box',
+      b: 'books',
+      c: 'boxes',
+      d: 'pencils'
 
     },
     correctAnswer: 'a'
   },
 
   {
-    question: "16.	I wonder whether or not __________ us tomorrow.",
+    question: "9. Khalid had twenty __________ on his farm. He sold them to the meat shop the other day.",
     answers: {
-      a: 'will he visit',
-      b: 'he visit',
-      c: 'he will visit',
-      d: 'is he going to visit'
+      a: 'sheeps',
+      b: 'ship',
+      c: 'sheep',
+      d: 'ships'
 
     },
     correctAnswer: 'c'
   },
-
+  
   {
-    question: "17.	January is the month __________ the weather is usually the coldest.",
+    question: "10. When we got to the shopping mall, I immediately went to the shop that sells   __________ clothes.",
     answers: {
-      a: 'at which',
-      b: 'on which',
-      c: 'when',
-      d: 'which'
-
-    },
-    correctAnswer: 'c'
-  },
-  {
-    question: "18.	I am trying to remember how many books__________.",
-    answers: {
-      a: 'will buy',
-      b: 'will we buy',
-      c: 'we are going to buy',
-      d: 'must we buy'
+      a: 'men',
+      b: 'mens',
+      c: "men's",
+      d: "mens'"
 
     },
     correctAnswer: 'c'
   },
+  
   {
-    question: "19.	Mary likes to drive her __________ car.",
+    question: "11. My __________ son finished his third grade class with honors.",
     answers: {
-      a: "father's",
-      b: "fathers' ",
-      c: "fathers's",
-      d: 'fathers'
+      a: 'ten-year-old',
+      b: 'ten years old',
+      c: 'ten-years-old',
+      d: 'ten-years'
 
     },
     correctAnswer: 'a'
   },
+
   {
-    question: "20.	The police __________ ten criminals since August.",
+    question: "12. The Chinese __________ a long and interesting history, but Chinese __________ very difficult to learn.",
     answers: {
-      a: "arrests",
-      b: "has arrested",
-      c: "have arrested",
-      d: 'was arrested'
+      a: 'have - are',
+      b: 'has - is',
+      c: 'have - is',
+      d: 'has - are'
+
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "13. Each boy and girl __________ to go to school. Learning __________ very important.",
+    answers: {
+      a: 'have - are',
+      b: 'has - is',
+      c: 'have - is',
+      d: 'has - are'
+
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "14. Each of my __________ here.",
+    answers: {
+      a: 'friend are',
+      b: 'friend is',
+      c: 'friends are',
+      d: 'friends is'
+
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "15. There__________ any mail for you yesterday, but there __________ some letters for you today.",
+    answers: {
+      a: "wasn't - are",
+      b: "wasn't - is",
+      c: "weren't - are",
+      d: "weren't - is"
+
+    },
+    correctAnswer: 'a'
+  },
+
+  {
+    question: "16. CNN News __________ events that take place around the world every day.",
+    answers: {
+      a: 'reports',
+      b: 'report',
+      c: 'reported',
+      d: 'reporting'
+
+    },
+    correctAnswer: 'a'
+  },
+
+  {
+    question: "17. Mathematics __________ easy for him. In fact, all subjects __________ easy for him.",
+    answers: {
+      a: 'are - are',
+      b: 'is - are',
+      c: 'is - is',
+      d: 'are - is'
+
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "18. A lot of prices __________ reduced. In fact, one of the cars __________sold at half price.",
+    answers: {
+      a: 'has been - are',
+      b: 'have benn - are',
+      c: 'has been - was',
+      d: 'have been  - was'
 
     },
     correctAnswer: 'c'
   },
   {
-    question: "21.	The doctor told me __________ fish or shrimp.",
+    question: "19. Some people prefer apples, but __________ prefer oranges.",
     answers: {
-      a: "don't eat",
-      b: "not eat",
-      c: "doesn't",
-      d: "not to eat"
+      a: "another",
+      b: "each other",
+      c: "other",
+      d: 'others'
 
     },
     correctAnswer: 'd'
   },
   {
-    question: "22.	I visited the house in __________ Ali lives.",
+    question: "20. I’m nearly finished. I just need __________ five minutes.",
+    answers: {
+      a: "another",
+      b: "each other",
+      c: "other",
+      d: 'others'
+
+    },
+    correctAnswer: 'a'
+  },
+  {
+    question: "21. The people __________ we visited yesterday were very hospitable.",
+    answers: {
+      a: "what",
+      b: "whom",
+      c: "whose",
+      d: "which"
+
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "22. The meeting __________ he went to was interesting.",
     answers: {
       a: "where",
-      b: "which",
-      c: "when",
-      d: "whose"
+      b: "whom",
+      c: "whose",
+      d: "which"
 
-    },
-    correctAnswer: 'b'
-  },
-  {
-    question: "23.	They did not know what __________",
-    answers: {
-      a: "to do",
-      b: "do they do",
-      c: "did they do",
-      d: "must they do"
-    },
-    correctAnswer: 'a'
-  },
-  {
-    question: "24.	The __________ toys are usually made in bright colors.",
-    answers: {
-      a: "childrens'",
-      b: "childrens's",
-      c: "children's",
-      d: "childrens"
-    },
-    correctAnswer: 'c'
-  },
-  {
-    question: "25.	I don’t like this pencil. Please, give me __________ one.",
-    answers: {
-      a: "others'",
-      b: "the another",
-      c: "the others",
-      d: "another"
     },
     correctAnswer: 'd'
   },
-
   {
-    question: "26.	She said, “I have to take the book.” She told me that she __________ the book.",
+    question: "23. The man __________ opinions I respect is my father.",
     answers: {
-      a: "has to take",
-      b: "has taken",
-      c: "had to take",
-      d: "had taken"
-    },
-    correctAnswer: 'c'
-  },
-
-  {
-    question: "27.	I always meet the man __________ son studies medicine in England.",
-    answers: {
-      a: "whom",
-      b: "that",
+      a: "who",
+      b: "whom",
       c: "whose",
-      d: "who"
+      d: "which"
     },
     correctAnswer: 'c'
   },
-
   {
-    question: "28.	I will invite __________ would like to come to the party.",
-    answers: {
-      a: "whatever",
-      b: "whomever",
-      c: "whenever",
-      d: "whoever"
-    },
-    correctAnswer: 'b'
-  },
-
-  {
-    question: "29.	I saw a lot of pictures, only a few of __________ were clear.",
+    question: "24. Do you remember the time __________ we traveled to Paris? You were only four then.",
     answers: {
       a: "which",
-      b: "whose",
+      b: "when",
       c: "whom",
-      d: "who"
+      d: "where"
     },
-    correctAnswer: 'a'
+    correctAnswer: 'b'
   },
-
   {
-    question: "30.	The mechanic to __________ you spoke last night was very skillful.",
+    question: "25. I am using a sentence __________ contains an adjective clause.",
     answers: {
-      a: "whose",
-      b: "that",
-      c: "which",
-      d: "whom"
+      a: "whom",
+      b: "whose",
+      c: "who",
+      d: "which"
     },
     correctAnswer: 'd'
   },
 
   {
-    question: "31.	This is the__________ suitcase.",
+    question: "26. The apartment __________ he lives in is located on the corner of Citrus and Lavender streets.",
     answers: {
-      a: "boys",
-      b: "boy's",
-      c: "boy",
-      d: "boys's"
-    },
-    correctAnswer: 'b'
-  },
-
-  {
-    question: "32.	I have a __________ boy.",
-    answers: {
-      a: "five year",
-      b: "five-years",
-      c: "five-year-old",
-      d: "five-years-old"
-    },
-    correctAnswer: 'c'
-  },
-  {
-    question: "33.	I don’t like __________.",
-    answers: {
-      a: "vegetable soup",
-      b: "soup's vegetable",
-      c: "vegetable's soup",
-      d: "vegetables soup"
+      a: "which",
+      b: "in which",
+      c: "where",
+      d: "when"
     },
     correctAnswer: 'a'
   },
-  {
-    question: "34.	I sold my __________ villa.",
-    answers: {
-      a: "7 room",
-      b: "7 rooms",
-      c: "7 room's",
-      d: "7-room"
-    },
-    correctAnswer: 'd'
-  },
-  {
-    question: "35.	I bought	__________ furniture.",
-    answers: {
-      a: "too many",
-      b: "too much",
-      c: "too",
-      d: "much very"
-    },
-    correctAnswer: 'b'
-  },
 
   {
-    question: "36.	I eat__________ ice cream.",
+    question: "27. I tasted three flavors of ice cream. __________ was very good.",
     answers: {
-      a: "too many",
-      b: "many",
-      c: "plenty of",
-      d: "plenty"
+      a: "All of them",
+      b: "Much of them",
+      c: "One of them",
+      d: "Some of them"
     },
     correctAnswer: 'c'
   },
 
   {
-    question: "37.	In big cities, there is __________ pollution.",
+    question: "28. Did you see the man __________ car is parked in the middle of the road?",
     answers: {
-      a: "several",
-      b: "a great deal of",
-      c: "a few",
-      d: "much of"
+      a: "who",
+      b: "whom",
+      c: "whose",
+      d: "which"
     },
-    correctAnswer: 'b'
+    correctAnswer: 'c'
   },
 
   {
-    question: "38.	The girl is wearing __________ jewelry.",
+    question: "29. The tall man __________ to my father works at the cement factory.",
     answers: {
-      a: "several",
-      b: "a few",
-      c: "too many",
-      d: "some"
+      a: "that talk",
+      b: "is talking",
+      c: "who are talking",
+      d: "talking"
     },
     correctAnswer: 'd'
   },
 
   {
-    question: "39.	__________ student has a book",
+    question: "30. Do you know __________?",
     answers: {
-      a: "All",
-      b: "Every",
-      c: "Some",
-      d: "Much"
-    },
-    correctAnswer: 'b'
-  },
-
-  {
-    question: "40.	Khobar is one of the __________ that I like very much.",
-    answers: {
-      a: "cities",
-      b: "city's",
-      c: "city",
-      d: "cities'"
-    },
-    correctAnswer: 'a'
-  },
-
-  {
-    question: "41.	The experiment they did__________ very exciting.",
-    answers: {
-      a: "were",
-      b: "was",
-      c: "are",
-      d: "have been"
-    },
-    correctAnswer: 'b'
-  },
-
-  {
-    question: "42.	Growing indoor plants__________ my hobby.",
-    answers: {
-      a: "is",
-      b: "are",
-      c: "were",
-      d: "was"
-    },
-    correctAnswer: 'a'
-  },
-
-  {
-    question: "43.	A number of students __________ late for school yesterday.",
-    answers: {
-      a: "was",
-      b: "is",
-      c: "were",
-      d: "are"
+      a: "whose house is that",
+      b: "which house is this",
+      c: "whose house that is",
+      d: "where does he live"
     },
     correctAnswer: 'c'
   },
 
   {
-    question: "44.	One of the boys __________ a car. The others don’t.",
+    question: "31. Security wants to know __________ yesterday.",
     answers: {
-      a: "owns",
-      b: "own",
-      c: "have",
-      d: "owner"
-    },
-    correctAnswer: 'a'
-  },
-
-  {
-    question: "45.	Half of the money __________ to me.",
-    answers: {
-      a: "belong",
-      b: "belonging",
-      c: "belongs",
-      d: "is belonging"
-    },
-    correctAnswer: 'c'
-  },
-
-  {
-    question: "46.	The rich __________ a lot of money.",
-    answers: {
-      a: "have",
-      b: "has",
-      c: "owns",
-      d: "possesses"
-    },
-    correctAnswer: 'a'
-  },
-
-  {
-    question: "47.	Each employee should do __________ level best.",
-    answers: {
-      a: "his",
-      b: "he",
-      c: "him",
-      d: "he's"
-    },
-    correctAnswer: 'a'
-  },
-
-  {
-    question: "48.	My  wonderful family always __________ me.",
-    answers: {
-      a: "supports",
-      b: "support",
-      c: "supportive",
-      d: "suporting"
+      a: "what time we go home",
+      b: "what time we went home",
+      c: "what time do we go home",
+      d: "what time did go home"
     },
     correctAnswer: 'b'
   },
 
   {
-    question: "49.	You must do this homework by __________.",
+    question: "32. Do you think __________ help our children to do their schoolwork? ",
     answers: {
-      a: "yourself",
-      b: "ourselves",
-      c: "myself",
-      d: "themselves"
+      a: "do we need",
+      b: "we should",
+      c: "should we",
+      d: "can we"
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "33. have never understood what __________",
+    answers: {
+      a: "does a tropical storm cause",
+      b: "cause tropica storms",
+      c: "causes tropical storms",
+      d: "did tropical storms cause"
+    },
+    correctAnswer: 'c'
+  },
+  {
+    question: "34. They don’t know whether __________ this invitation or not",
+    answers: {
+      a: "to accept",
+      b: "accept",
+      c: "accepting",
+      d: "accepted"
+    },
+    correctAnswer: 'a'
+  },
+  {
+    question: "35. Our supervisor told us that we __________ for a transfer at the moment. There is not enough manpower in the unit, so requests won’t be approved.",
+    answers: {
+      a: "must apply",
+      b: "have to apply",
+      c: "should not apply",
+      d: "haven't applied"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "36. Yasser asked his friend __________ television the night before.",
+    answers: {
+      a: "if he watches",
+      b: "did he watch",
+      c: "if he had watched",
+      d: "had he watched"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "37. The secretary __________ I told you about is a friend of the teacher __________ lives near my apartment.",
+    answers: {
+      a: "that - who",
+      b: "that - which",
+      c: "whom - whose",
+      d: "which - whom"
     },
     correctAnswer: 'a'
   },
 
   {
-    question: "50.	I received two checks.  One is from my father and the __________ is from my uncle.",
+    question: "38. The police __________ me some information that __________ incorrect. I must check it.",
     answers: {
-      a: "others",
-      b: "another",
-      c: "the others",
-      d: "other"
+      a: "has given - is",
+      b: "have given - is",
+      c: "have given - are",
+      d: "has given - are"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "39. One of my colleagues said that he __________ to Syria, but he __________ to go there.",
+    answers: {
+      a: "has never been - liked",
+      b: "had never been - would like",
+      c: "would never be - liked",
+      d: "was never - would like"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "40. Faisal needs __________ new information He doesn’t want __________ more similar data for this report.",
+    answers: {
+      a: "some - no",
+      b: "not much - no",
+      c: "some - any",
+      d: "many -any'"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "41. They installed new __________ in Room 110. These will be used for the newly arrived books.",
+    answers: {
+      a: "shelf",
+      b: "shelfs",
+      c: "shelves",
+      d: "shelves'"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "42. __________ meeting will be attended by unit supervisors from the refinery.",
+    answers: {
+      a: "Two days",
+      b: "Today's",
+      c: "Today",
+      d: "Today is"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "43. Khalid’s son is tall for his age. He is only __________",
+    answers: {
+      a: "six-year",
+      b: "six-years-old",
+      c: "six years old",
+      d: "six-years old"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "44. The major roads in Jeddah will be repaired soon where __________so congested.",
+    answers: {
+      a: "the traffics are",
+      b: "the traffic are",
+      c: "the traffics is",
+      d: "the traffic is"
     },
     correctAnswer: 'd'
+  },
+
+  {
+    question: "45. There is __________ to learn in English 4B.",
+    answers: {
+      a: "many vocabularies",
+      b: "much vocabulary",
+      c: "much vocabularies",
+      d: "many vocabulary's"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "46. I saw each of my __________ at the safety picnic last Thursday.",
+    answers: {
+      a: "classmate",
+      b: "classmates's",
+      c: "classmates",
+      d: "classmates'"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "47. This set of exercises __________ too difficult for the trainees. The other exercises we gave last time __________easier.",
+    answers: {
+      a: "Are - was",
+      b: "is - were",
+      c: "Are - were",
+      d: "is - was"
+    },
+    correctAnswer: 'b'
+  },
+
+  {
+    question: "48. The number of medical cases __________ every week, but a number of them __________ not serious.",
+    answers: {
+      a: "increases - are",
+      b: "increase - are",
+      c: "increase - is",
+      d: "increases - is"
+    },
+    correctAnswer: 'a'
+  },
+
+  {
+    question: "49. We don’t have any __________ choice, so we’ll go ahead with the activities tonight.",
+    answers: {
+      a: "another",
+      b: "each other",
+      c: "other",
+      d: "others"
+    },
+    correctAnswer: 'c'
+  },
+
+  {
+    question: "50. The part of the city __________ they moved to is very quiet and safe.",
+    answers: {
+      a: "which",
+      b: "what",
+      c: "in which",
+      d: "when"
+    },
+    correctAnswer: 'a'
   },
 ];
 
